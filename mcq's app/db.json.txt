@@ -1,0 +1,62 @@
+{
+"English":[
+{ 
+"id":1,
+"question":"correct place for inserting script tag?",
+"options":["body","head","both head & body","none of the above"],
+"correct_answer":"both head & body"
+},
+{ 
+"id":2,
+"question":"correct place for inserting script tag is both head & body",
+"options":["true","false"],
+"correct_answer":"true"
+},
+{ 
+"id":3,
+"question":"javascript stands for"
+"correct_answer":"JAVA SCRIPT"
+},
+{ 
+"id":4,
+"question":"Match the following"
+"GroupA":[
+{
+  "id":1,
+  "title":"js"
+  },
+  {
+  "id":2,
+  "title":"ts"
+  },
+   {
+  "id":2,
+  "title":"css"
+  },
+],
+"GroupB":[
+{
+  "id":"a",
+  "title":"type script"
+  },
+  {
+  "id":"b",
+  "title":"cascading style sheets"
+  },
+   {
+  "id":"c",
+  "title":"java script"
+  },
+],
+"options":["(1,c)(2,a)(3,b)","(1,a)(2,b)(3,c)",(1,a)(2,c)(3,b)],
+"correct_answer":"(1,c)(2,a)(3,b)"
+},
+{ 
+"id":5,
+"question":"select conditional statements",
+"options":["if","else if","&","|"],
+"correct_answer":"if,else if",
+"correct_answer1":"else if if",
+}
+]
+}

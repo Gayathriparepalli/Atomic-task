@@ -1,0 +1,122 @@
+{
+"English":[
+{ 
+"id":1,
+"question":"correct place for inserting script tag?",
+"options":["body","head","both head & body","none of the above"],
+"correct_answer":"both head & body"
+},
+{ 
+"id":2,
+"question":"correct place for inserting script tag is both head & body",
+"options":["true","false"],
+"correct_answer":"true"
+},
+{ 
+"id":3,
+"question":"javascript stands for",
+"correct_answer":"JAVA SCRIPT"
+},
+{ 
+"id":4,
+"question":"Match the following",
+"GroupA":[
+{
+  "id":1,
+  "title":"js"
+  },
+  {
+  "id":2,
+  "title":"ts"
+  },
+   {
+  "id":2,
+  "title":"css"
+  }
+],
+"GroupB":[
+{
+  "id":"a",
+  "title":"type script"
+  },
+  {
+  "id":"b",
+  "title":"cascading style sheets"
+  },
+   {
+  "id":"c",
+  "title":"java script"
+  }
+],
+"options":["(1,c)(2,a)(3,b)","(1,a)(2,b)(3,c)","(1,a)(2,c)(3,b)"],
+"correct_answer":"(1,c)(2,a)(3,b)"
+},
+{ 
+"id":5,
+"question":"select conditional statements",
+"options":["if","else if","&","|"],
+"correct_answer":"if,else if",
+"correct_answer1":"else if if"
+}
+],
+"Telugu":[
+{ 
+"id":1,
+"question":"మహాభారత గ్రంధానికి వ్యాసుడు ఇచ్చిన అసలు పేరేమిటి ?",
+"options":["జయ","విజయ","భారత","మహా పురాణ"],
+"correct_answer":"జయ"
+},
+{ 
+"id":2,
+"question":"మహాభారతంలో 18 పర్వాలు ఉన్నాయి?",
+"options":["అవును"," కాదు"],
+"correct_answer":"అవును"
+},
+{ 
+"id":3,
+"question":"మహాభారతంలో ఎన్ని పర్వాలు ఉన్నాయి?",
+"correct_answer":"18"
+},
+{ 
+"id":4,
+"question":"Match the following",
+"GroupA":[
+{
+  "id":1,
+  "title":"ఆంధ్రప్రదేశ్"
+  },
+  {
+  "id":2,
+  "title":"కర్నాటక"
+  },
+   {
+  "id":2,
+  "title":"తమిళనాడు"
+  }
+],
+"GroupB":[
+{
+  "id":"a",
+  "title":"తమిళం"
+  },
+  {
+  "id":"b",
+  "title":"తెలుగు "
+  },
+   {
+  "id":"c",
+  "title":"కన్నడ"
+  }
+],
+"options":["(1,b)(2,c)(3,a)","(1,a)(2,b)(3,c)","(1,a)(2,c)(3,b)"],
+"correct_answer":"(1,b)(2,c)(3,a)"
+},
+{ 
+"id":5,
+"question":"మహాభారత పర్వాలు",
+"options":["ఆదిపర్వం","ఆరణ్యపర్వం","కన్నడ","తెలుగు"],
+"correct_answer":"ఆదిపర్వం,ఆరణ్యపర్వం",
+"correct_answer1":"ఆరణ్యపర్వం ఆదిపర్వం"
+}
+]
+}
